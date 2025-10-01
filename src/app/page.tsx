@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import {
-  FaTwitter, FaGithub, FaStar, FaUserAlt, FaLinkedinIn, FaBehance, FaComments, FaDribbble, FaUserFriends,
+ FaGithub, FaStar, FaUserAlt, FaComments, FaUserFriends,
 } from "react-icons/fa";
 
 import AOS from "aos";
